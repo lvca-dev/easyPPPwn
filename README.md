@@ -15,10 +15,10 @@ The exploit prints `Hacked by Luca` on your PS4, Then GoldHen Gets Loaded!
 - Python3 and gcc installed
 
 ## Usage
-Connect an LAN Cable From PC To PlayStation 4!
-Then:
-Open startme.py, then select ur interface.
-If not Set-up. Set-up An Lan Connection, Select Custom, On IP Select PPPOE, Then Just enter in Both things Something. every other setting is irrelevant! Just select what u think!
-Now Click Test Internet Connection!
-Thats it! If Failed, Simply Close, And Do The Same thing as before.
-Now Set-Up ur Real Internet Connection!
+- Connect an LAN Cable From PC To PlayStation 4!
+- Then:
+- Open startme.py, then select ur interface.
+- If not Set-up. Set-up An Lan Connection, Select Custom, On IP Select PPPOE, Then Just enter in Both things Something. every other setting is irrelevant! Just select what u think!
+- Now Click Test Internet Connection!
+- Thats it! If Failed, Simply Close, And Do The Same thing as before.
+- Now Set-Up ur Real Internet Connection!
